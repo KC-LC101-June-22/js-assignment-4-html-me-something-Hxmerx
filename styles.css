@@ -1,1 +1,29 @@
 /* Write your CSS here! */
+.centered{
+    text-align:center;
+} 
+
+nav > ul {
+    text-align:center;
+}
+
+nav > ul > li{
+    display:inline-block;
+}
+
+
+section > ul {
+    text-align:left
+}
+
+#copyRight{
+    color:chartreuse;
+    font-size: x-large;
+}
+.funParagraph{
+    color:green
+}
+
+#mainHeading{
+    color:red
+}
